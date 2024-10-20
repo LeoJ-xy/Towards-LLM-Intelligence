@@ -30,6 +30,8 @@ Interpreting Arithmetic Mechanism in Large Language Models through Comparative N
 
 Hypothesis Testing the Circuit Hypothesis in LLMs [link](https://openreview.net/forum?id=ibSNv9cldu) 2024.06
 
+RAVEL: Evaluating Interpretability Methods on Disentangling Language Model Representations [link](https://arxiv.org/pdf/2402.17700) 2024.02
+
 Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models [link](https://arxiv.org/pdf/2402.16438) 2024.02
 
 Successor Heads: Recurring, Interpretable Attention Heads In The Wild [link](https://arxiv.org/abs/2312.09230) 2023.12
