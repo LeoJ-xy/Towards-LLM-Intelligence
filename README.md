@@ -6,6 +6,8 @@ Researchers have made remarkable and groundbreaking achievements in exploring th
 
 Using Dictionary Learning Features as Classifiers [link](https://transformer-circuits.pub/2024/features-as-classifiers/index.html) 2024.10
 
+Sparse Autoencoders Reveal Universal Feature Spaces Across Large Language Models [link](https://arxiv.org/pdf/2410.06981) 2024.10
+
 Interpretability Evals for Dictionary Learning [link](https://transformer-circuits.pub/2024/august-update/index.html#interp-evals) 2024.08
 
 Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2 [link](https://arxiv.org/pdf/2408.05147) 2024.08
