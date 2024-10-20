@@ -22,10 +22,20 @@ Sparse Autoencoders Find Highly Interpretable Features in Language Models [link]
 
 Toy Models of Superposition [link](https://transformer-circuits.pub/2022/toy_model/index.html) 2022.09
 
-**Neuron Analysis**
+**Neuron & Circuits Analysis**
 
 Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis [link](https://arxiv.org/pdf/2409.14144) 2024.09
+
+Hypothesis Testing the Circuit Hypothesis in LLMs [link](https://openreview.net/forum?id=ibSNv9cldu) 2024.06
 
 Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models [link](https://arxiv.org/pdf/2402.16438) 2024.02
 
 Successor Heads: Recurring, Interpretable Attention Heads In The Wild [link](https://arxiv.org/abs/2312.09230) 2023.12
+
+**Human Comparisons (Cognition & linguistics)**
+
+Shared functional specialization in transformer-based language models and the human brain [link](https://www.nature.com/articles/s41467-024-49173-5) 2024.06
+
+Alignment of brain embeddings and artificial contextual embeddings in natural language points to common geometric patterns [link](https://pubmed.ncbi.nlm.nih.gov/38553456/) 2024.05
+
+Semantic Structure in Deep Learning [link](https://www.annualreviews.org/docserver/fulltext/linguistics/8/1/annurev-linguistics-031120-122924.pdf?expires=1729404555&id=id&accname=guest&checksum=BAC354EE7D776B2E3F70062009260611) 2022.01
