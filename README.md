@@ -8,6 +8,8 @@ Using Dictionary Learning Features as Classifiers [link](https://transformer-cir
 
 Interpretability Evals for Dictionary Learning [link](https://transformer-circuits.pub/2024/august-update/index.html#interp-evals) 2024.08
 
+Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2 [link](https://arxiv.org/pdf/2408.05147) 2024.08
+
 Scaling and evaluating sparse autoencoders [link](https://cdn.openai.com/papers/sparse-autoencoders.pdf) 2024.06
 
 Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet [link](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html) 2024.05
