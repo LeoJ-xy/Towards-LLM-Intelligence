@@ -21,3 +21,11 @@ Towards Monosemanticity: Decomposing Language Models With Dictionary Learning [l
 Sparse Autoencoders Find Highly Interpretable Features in Language Models [link](https://arxiv.org/pdf/2309.08600) 2023.09
 
 Toy Models of Superposition [link](https://transformer-circuits.pub/2022/toy_model/index.html) 2022.09
+
+**Neuron Analysis**
+
+Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis [link](https://arxiv.org/pdf/2409.14144) 2024.09
+
+Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models [link](https://arxiv.org/pdf/2402.16438) 2024.02
+
+Successor Heads: Recurring, Interpretable Attention Heads In The Wild [link](https://arxiv.org/abs/2312.09230) 2023.12
