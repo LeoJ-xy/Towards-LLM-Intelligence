@@ -4,6 +4,8 @@ Researchers have made remarkable and groundbreaking achievements in exploring th
 
 **Feature Extracting**
 
+Automatically Interpreting Millions of Features in Large Language Models [link](https://arxiv.org/pdf/2410.13928) 2024.10
+
 Using Dictionary Learning Features as Classifiers [link](https://transformer-circuits.pub/2024/features-as-classifiers/index.html) 2024.10
 
 Sparse Autoencoders Reveal Universal Feature Spaces Across Large Language Models [link](https://arxiv.org/pdf/2410.06981) 2024.10
