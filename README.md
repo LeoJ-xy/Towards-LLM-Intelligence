@@ -40,6 +40,8 @@ Successor Heads: Recurring, Interpretable Attention Heads In The Wild [link](htt
 
 **Human Comparisons (Cognition & linguistics)**
 
+The Platonic Representation Hypothesis [link](https://arxiv.org/pdf/2405.07987) 2024.07
+
 Shared functional specialization in transformer-based language models and the human brain [link](https://www.nature.com/articles/s41467-024-49173-5) 2024.06
 
 Alignment of brain embeddings and artificial contextual embeddings in natural language points to common geometric patterns [link](https://pubmed.ncbi.nlm.nih.gov/38553456/) 2024.05
