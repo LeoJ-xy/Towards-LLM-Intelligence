@@ -28,6 +28,8 @@ Toy Models of Superposition [link](https://transformer-circuits.pub/2022/toy_mod
 
 **Neuron & Circuits Analysis**
 
+Scaling Automatic Neuron Description [link](https://transluce.org/neuron-descriptions) 2024.10
+
 Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis [link](https://arxiv.org/pdf/2409.14144) 2024.09
 
 Hypothesis Testing the Circuit Hypothesis in LLMs [link](https://openreview.net/forum?id=ibSNv9cldu) 2024.06
