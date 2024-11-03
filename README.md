@@ -4,6 +4,10 @@ Researchers have made remarkable and groundbreaking achievements in exploring th
 
 **Feature Extracting**
 
+Sparse Crosscoders for Cross-Layer Features and Model Diffing [link](https://transformer-circuits.pub/2024/crosscoders/index.html) 2024.10
+
+Evaluating feature steering: A case study in mitigating social biases [link](https://www.anthropic.com/research/evaluating-feature-steering) 2024.10
+
 Automatically Interpreting Millions of Features in Large Language Models [link](https://arxiv.org/pdf/2410.13928) 2024.10
 
 Using Dictionary Learning Features as Classifiers [link](https://transformer-circuits.pub/2024/features-as-classifiers/index.html) 2024.10
